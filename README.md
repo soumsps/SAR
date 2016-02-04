@@ -1,5 +1,5 @@
 # SAR
-Self Attendance Register
+Self Attendance Register (UG Level JAVA DBMS Project)
 --------------
 Introduction
 --------------
